@@ -1,7 +1,5 @@
 # Authored Kata: _Will I Pass?_
 
-This is a Kata I am authoring for Codewars.
-
 ## Description
 
 > "Am I gonna get in to Uni?!"
