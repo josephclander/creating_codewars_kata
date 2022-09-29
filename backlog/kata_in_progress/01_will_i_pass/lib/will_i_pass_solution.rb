@@ -1,6 +1,7 @@
+# author: joseph lander
 # scores is an array of integers
 # target_grade is "A", "B", "C", "D" or "E"
-def will_i_pass(scores, target_grade)
+def will_i_pass_solution(scores, target_grade)
   boundaries = { A: 80, B: 70, C: 60, D: 50, E: 40 }
   current_total = scores.sum
   # avoid division by using totals
